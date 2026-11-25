@@ -1,0 +1,9 @@
+kit/
+kit-download.tar.gz
+photos/
+compose.py
+*.log
+bundle.tar.gz
+SUBMIT-READY.md
+media-generation*.json
+out/
